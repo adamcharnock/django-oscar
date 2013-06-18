@@ -7148,7 +7148,7 @@ a:hover .thumbnail {
   width: 16px;
   height: 16px;
   margin-right: 3px;
-  background: #464646 url(../../responsivegallery/views.png) no-repeat top left;
+  background: #464646 url(../js/responsivegallery/views.png) no-repeat top left;
   border: 3px solid #464646;
   opacity: 0.8;
 }
@@ -7171,7 +7171,7 @@ a:hover .thumbnail {
   position: absolute;
   top: 50%;
   left: 50%;
-  /*  background:#000 url(../responsivegallery/ajax-loader.gif) no-repeat center center;*/
+  /*  background:#000 url(../js/responsivegallery/ajax-loader.gif) no-repeat center center;*/
 
   margin: -23px 0px 0px -23px;
   z-index: 100;
